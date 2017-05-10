@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search on FB</string>
+    <string name="aboutme_name">About Me</string>
+    <string name="result_name">Result</string>
+    <string name="detail_name">Details</string>
+    <string name="facebook_app_id">675930335931680</string>
+</resources>
